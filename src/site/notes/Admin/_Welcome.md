@@ -2,8 +2,6 @@
 {"dg-publish":true,"permalink":"/admin/welcome/","tags":["gardenEntry"]}
 ---
 
-
-
 This is the Adfectus Wiki.
 
 This page is a link-page to many other articles on each aspect of the world.
