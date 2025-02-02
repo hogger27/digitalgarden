@@ -4,7 +4,7 @@
 
 
 
-Adfectus is separated into six different nations. They are viewable from the [[Adfectus_Map.jpeg|Adfectus Map]].
+Adfectus is separated into six different "Super-Power" nations. They are viewable from the [[Adfectus_Map.jpeg|Adfectus Map]].
 
 [[Nations/Quantor\|Quantor]] is the western most nation & is the most peaceful.
 
@@ -14,6 +14,6 @@ Adfectus is separated into six different nations. They are viewable from the [[A
 
 [[Nations/Redivivus\|Redivivus]] is a nation focused on the advancement of technology and harnessing the power of mages while subjugating them.
 
-[[Regions/El Mehicano\|El Mehicano]] is a nation that is full of outlaws, bounty hunters, and monster hunters.
+[[Nations/Espana\|Espana]] The largest nation in El Mehicano that stands to protect the freedom of the people.
 
 [[Nations/Family of the Sanguine Eye.\|The Family of the Sanguine Eye]], a nation of islands on the south east corner of the world. A cult that grew unchecked.
